@@ -606,3 +606,8 @@ For now, there are three types of `DynBox*`:
 Once you wrap the parser through `DynBox*`, you can only use corresponding iterator in `parse(...)`.
 
 You can refer [HERE](rusty_parser/src/wrapper/boxed) to implement for other iterator types.
+
+## Contributors
+
+- Tunahan Coşgun — <info@tunahancosgun.dev>
+- Duygu Durmuş — <duygudurmus12@gmail.com>
