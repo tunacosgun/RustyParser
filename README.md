@@ -14,7 +14,7 @@ but some functionalities are limited to specific iterators.
 
  - **[JSON Parser](examples/json)**
 
- - **[mini C language Tokenizer and AST Parser](https://github.com/ehwan/C-Parser-In-Rust)**
+ - **[mini C language Tokenizer and AST Parser](https://github.com/tunacosgun/C-Parser-In-Rust)**
 
 
 ## Sample Code
