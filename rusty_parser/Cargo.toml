@@ -2,7 +2,7 @@
 name = "rusty_parser"
 version = "1.1.0"
 edition = "2021"
-authors = ["Tunahan Coşgun (Tunasoft Yazılım) <info@tunahancosgun.dev>"]
+authors = ["Tunahan Coşgun <info@tunahancosgun.dev>", "Duygu Durmuş <duygudurmus12@gmail.com>"]
 description = "A Generic compile-time Parser generator and pattern matching library written in Rust"
 license = "MIT"
 readme = "../README.md"
